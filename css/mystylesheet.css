@@ -1,0 +1,39 @@
+#current {
+    background-color: black;
+}
+
+.nav-link{
+    color: black;
+}
+
+.nav-link:hover{
+    color: black;
+    font-weight: bold;
+}
+
+#dermot{
+    border: black solid 2px;
+    border-radius: 50%;
+    width: 350px;
+    height: 350px;
+}
+
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+}
+
+#hero {
+    background-color: #EAEAEA;
+}
+
+
+
+#place{
+    border-radius: 50%;
+}
+
+.rounded-image {
+    border-radius: 10px; /* Adjust the value to control the roundness */
+}
